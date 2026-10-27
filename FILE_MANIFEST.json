@@ -1,0 +1,94 @@
+{
+  ".gitattributes": {
+    "bytes": 106,
+    "sha256": "9bbc25ecdcdddb2d64d66929259ff8e04e32ea46a22d3bc4a3e9d67ffc9d5d82"
+  },
+  ".gitignore": {
+    "bytes": 512,
+    "sha256": "8cf34ec049166fdafc25c4df964eff96ed0aa91ea0a2ebd6695c39accd1b6103"
+  },
+  "CHANGELOG.md": {
+    "bytes": 814,
+    "sha256": "7b96e5749804df0ee121a7e0c5465836c9c69f68a6638512e0c10ed935e7bd00"
+  },
+  "docs/BACKUP.md": {
+    "bytes": 1596,
+    "sha256": "52dfd4942996e4c742dc8a3e7a43c874d0106a793fd87a5099b8dc6a8d2e0786"
+  },
+  "docs/COMMANDS.md": {
+    "bytes": 4735,
+    "sha256": "6319fca9d759355c6d09b6a2d4d0a6d76c7a5a95b241d2c7537e1f5597ca2a33"
+  },
+  "docs/research/ad-domains.txt": {
+    "bytes": 961,
+    "sha256": "6651380e946bd1f05ee6225cfe3c809255e39d8688b27789b58fb50a833bc46f"
+  },
+  "docs/research/ad-ecosystem.md": {
+    "bytes": 1529,
+    "sha256": "5d25e19a8c7db95c4af34b2279ff036b29fee7c92c081116a14afcef4ad28364"
+  },
+  "docs/research/component-map.md": {
+    "bytes": 1433,
+    "sha256": "dac5768c1e2aaa83973a15d0d9122f552c88aa4ba6902ab87fa16bebd5e021fd"
+  },
+  "docs/research/partition-table.md": {
+    "bytes": 1260,
+    "sha256": "689aa339016bc1136629dc0c145aa396afd94376785a980804c3f70955e07caf"
+  },
+  "docs/USB-ROOT.md": {
+    "bytes": 2929,
+    "sha256": "2bff6c414561169f6180286ee109026797387c427cefde772ea773cdd16d9bfb"
+  },
+  "examples/hi_boot_shell.sh": {
+    "bytes": 590,
+    "sha256": "8518b45d4da96485038fd1795dbd80535067fa5f8bc9cc43b5c5732e569bc3e1"
+  },
+  "examples/startup.conf.example": {
+    "bytes": 57,
+    "sha256": "332c78d2adc78cdc406d0733c68376d73bab6e490b091e66b1c6fec4dd4522db"
+  },
+  "LICENSE": {
+    "bytes": 1064,
+    "sha256": "d00eac1ebc1174d493f9c71a1f2076d7f71c6400ed1c042f7f87395bdc793319"
+  },
+  "README.en.md": {
+    "bytes": 5731,
+    "sha256": "d31141978701b3139a3a76e50128801e0510ed35759df13bc53545c8a2a7545e"
+  },
+  "README.md": {
+    "bytes": 5149,
+    "sha256": "d5a2414ccdcc98c9b97c0b314bb963f012f91910e3b2305558e9af6fd36973d4"
+  },
+  "scripts/backup-partitions.sh": {
+    "bytes": 3708,
+    "sha256": "35bd4b4ad4f2c7ee38a62cf6265dcdc7cf80f882d026018bf229334c747caee3"
+  },
+  "scripts/kill-bootvideo.sh": {
+    "bytes": 171,
+    "sha256": "e703e5e21df27824f7025c68cf2f26da738818e0e960d5b69faa01acd41d37d0"
+  },
+  "scripts/nas-route.sh": {
+    "bytes": 2049,
+    "sha256": "148916c43db89fb6e1b772a50fb1ada5f17bd7651c6a3e5198c9fa6b1cf712c3"
+  },
+  "scripts/patch-hook.sh": {
+    "bytes": 169,
+    "sha256": "8d3a8c1d1b38c812cef91b02f28fc5f5c26104a4d90516c02d91a9e9eb61f848"
+  },
+  "scripts/probe-root.sh": {
+    "bytes": 172,
+    "sha256": "ed45daf12a11964e3cd58e1927fa14410f7859329e8c990ecf882d692e4fa02b"
+  },
+  "scripts/set-emotn-home.sh": {
+    "bytes": 162,
+    "sha256": "823e2089c2c392c0957f6e24ab5b6c379500b005197c17ab7def7300f0e0adfe"
+  },
+  "scripts/tv8h56.sh": {
+    "bytes": 20440,
+    "sha256": "e8b82ed5eb552a078b86c210f9625d32d496034ecffb47afa4465ff82d97177d"
+  },
+  "VERSION": {
+    "bytes": 6,
+    "sha256": "1f930dd1f133c1f97a94fe3acb8db34372cf4c01ffdb2b3ff4ca72f9494121e9"
+  }
+}

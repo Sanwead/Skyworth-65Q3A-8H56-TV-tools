@@ -1,0 +1,40 @@
+# TV-8H56 原作者记录的 33 个候选域名（未验证，不是 hosts 文件）
+# 不自动封锁：可能影响支付、视频和共享 CDN；域名不等于已确认广告源。
+# 酷开广告服务器
+hoisin.coocaatv.com
+hoisin.coocaa.com
+data-hoisin.coocaa.com
+beta-data-hoisin.coocaa.com
+beta.hoisin.coocaatv.com
+data-hoisin.coocaatv.com
+pay.coocaatv.com
+# 腾讯广点通 GDT
+gdt.qq.com
+v.gdt.qq.com
+mi.gdt.qq.com
+c.gdt.qq.com
+t.gdt.qq.com
+xs.gdt.qq.com
+rpt.gdt.qq.com
+pingfore.qq.com
+imgcache.qq.com
+wa.gtimg.com
+pgdt.gtimg.cn
+# 腾讯视频广告（开机视频广告片源控制面）
+livew.l.qq.com
+lives.l.qq.com
+vv.video.qq.com
+l.qq.com
+btg.gdt.qq.com
+adshmmsg.qq.com
+adsmind.gdtimg.com
+btrace.qq.com
+a.video.qq.com
+# 图片 CDN（主页/屏保图片广告）
+img-sky-fs.coocaa.ottcn.com
+img-sky-fs.skysrt.com
+post2img.skysrt.com
+api-home.coocaa.ottcn.com
+# 屏保广告通知（dzpb = 电子屏保）
+dzpb.coocaa.com
+img-fs.snmcoocaa.aisee.tv
